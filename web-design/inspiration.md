@@ -14,8 +14,7 @@
 - [Sean J. Klassen](https://seanjklassen.com/)
 - [Hakim El Hattab](https://hakim.se/)
 - [Tamino Martinius](https://taminomartinius.de/)
-- [Benjamin Guedj
-](https://www.oursroux.com/)
+- [Benjamin Guedj](https://www.oursroux.com/)
 - [Kenan Yusuf](https://kyusuf.com/)
 - [Lionel Durimel](https://www.durimel.io/)
 - [Marc Thomas](http://mrcthms.com/)

@@ -9,6 +9,9 @@
 - [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 - [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/)
 - [The #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/)
+- [Reflections on code quality. Confession of a CTO](https://blog.untitledkingdom.com/reflections-on-code-quality-confession-of-a-cto-695fd0812b1d)
+- [Is high quality software worth the cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [Minimalism — The most undervalued development skill](https://volument.com/blog/minimalism-the-most-undervalued-development-skill)
 
 ## Publications
 

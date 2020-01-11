@@ -11,6 +11,7 @@
 - [Sunset geometry](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
 - [Moiré pattern](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern)
+- [Prince Rupert's cube](https://en.wikipedia.org/wiki/Prince_Rupert's_cube)
 
 ## Podcasts
 
