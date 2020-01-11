@@ -1,6 +1,10 @@
 # Nuxt.js
 
-## Articles
+## Gits
+
+- [Nuxt + Markdown blog starter](https://github.com/marinaaisa/nuxt-markdown-blog-starter)
+
+## Guides
 
 - [Navigation drawer tutorial with Nuxt](https://www.codementor.io/@cejowisz/navigation-drawer-tutorial-with-nuxt-rrax23tmw)
 
