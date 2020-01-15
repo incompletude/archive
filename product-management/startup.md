@@ -12,6 +12,7 @@
 - [The Ultimate Guide to Calculating, Understanding, and Improving CAC in 2019](https://blog.hubspot.com/service/what-does-cac-stand-for)
 - [How busyness leads to bad decisions](https://www.bbc.com/worklife/article/20191202-how-time-scarcity-makes-us-focus-on-low-value-tasks)
 - [LTV:CAC Ratio](https://www.geckoboard.com/learn/kpi-examples/marketing-kpis/ltv-cac-ratio/)
+- [Analyzing churn rates, free trials, and other metrics](https://jlongster.com/analyizing-profit-metrics)
 
 ## Podcasts
 

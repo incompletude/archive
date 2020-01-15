@@ -3,8 +3,12 @@
 ## Articles
 
 - [The minimal Node.js with Babel setup](https://www.robinwieruch.de/minimal-node-js-babel-setup)
-- [75 Web Animation Tools You Have to Try](https://www.webdesignerdepot.com/2017/08/75-web-animation-tools-you-have-to-try/)
 - [Singleton pattern in ES6](https://medium.com/@dmnsgn/singleton-pattern-in-es6-d2d021d150ae)
+
+## Questions
+
+- [Is it bad practice to have a constructor function return a Promise?](https://stackoverflow.com/questions/24398699/is-it-bad-practice-to-have-a-constructor-function-return-a-promise)
+- [Limiting asynchronous calls in Node.js](https://stackoverflow.com/questions/9539886/limiting-asynchronous-calls-in-node-js)
 
 ## Gists
 
