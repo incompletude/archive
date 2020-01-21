@@ -18,8 +18,3 @@
 - [The Art of Bargaining, Positional vs Interest-Based Negotiation](https://f3fundit.com/the-art-of-bargaining-positional-vs-interest-based-negotiation/)
 - [Science Of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)
 - [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548)
-
-## Publications
-
-- [Bar Talk: Informal Social Interactions, Alcohol
-Prohibition, and Invention](https://economics.yale.edu/sites/default/files/bar_talk_10_19_ada-ns.pdf)

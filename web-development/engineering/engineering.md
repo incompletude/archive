@@ -13,6 +13,8 @@
 - [Is high quality software worth the cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 - [Minimalism — The most undervalued development skill](https://volument.com/blog/minimalism-the-most-undervalued-development-skill)
 - [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+- [Technical Debt Is like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/)
+- [Living in the Age of Software Fuckery](https://web.archive.org/web/20160308032127/https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877)
 
 ## Publications
 

@@ -49,6 +49,7 @@
   - [Startup](product-management/startup.md)
 - [Psychology](psychology/psychology.md)
   - [Bias](psychology/bias.md)
+  - [Creativity](psychology/creativity.md)
   - [Perception](psychology/perception.md)
 - [Web design](web-design/web-design.md)
   - [Accessibility](web-design/accessibility.md)
