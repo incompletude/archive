@@ -17,6 +17,9 @@
 - [Design better input fields](https://uxdesign.cc/design-better-input-fields-3d02985a8e24)
 - [How to design better buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/)
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html)
+- [Improve Your Sign-Up Form with Off-White Text Fields](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/)
+- [Why the double diamond isn’t enough](https://uxdesign.cc/why-the-double-diamond-isnt-enough-adaa48a8aec1)
+- [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 
 ## Publications
 

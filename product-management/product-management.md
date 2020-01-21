@@ -4,9 +4,8 @@
 
 - [How to fill in a value proposition canvas](https://isaacjeffries.com/blog/2018/2/27/how-to-fill-in-a-value-proposition-canvas)
 - [How to set up a product discovery process?](https://herbig.co/product-discovery/)
-- [Why the double diamond isn’t enough](https://uxdesign.cc/why-the-double-diamond-isnt-enough-adaa48a8aec1)
 - [Nuggets: como democratizar pesquisas de design](https://medium.com/quintoandar-design/nuggets-como-democratizar-pesquisas-de-design-9b1a717879f0)
-- [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
+- [How to Craft Your Product Team at Every Stage, From Pre-Product/Market Fit to Hypergrowth](https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/)
 
 ## Publications
 
