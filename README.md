@@ -1,5 +1,7 @@
 # Knowledge
 
+## Summary
+
 - [Advertising](advertising/advertising.md)
 - [Art](art/art.md)
 - [Astronomy](astronomy/astronomy.md)
@@ -99,3 +101,7 @@
   - [Finding work](work/finding-work.md)
   - [Interview](work/interview.md)
   - [Remote work](work/remote-work.md)
+
+## License
+
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
