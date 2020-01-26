@@ -68,6 +68,7 @@
   - [Authentication](web-development/authentication/authentication.md)
   - [Cloud computing](web-development/cloud-computing/cloud-computing.md)
   - [Databases](web-development/databases/databases.md)
+    - [PostgreSQL](web-development/databases/postgresql.md)
   - [Documentation](web-development/documentation/documentation.md)
     - [Markdown](web-development/documentation/markdown.md)
   - [Engineering](web-development/engineering/engineering.md)
