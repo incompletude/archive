@@ -21,6 +21,7 @@
   - [Parenting](life/parenting.md)
 - [Linguistics](linguistics/linguistics.md)
 - [Literature](literature/literature.md)
+  - [Charles Bukowski](literature/charles-bukowski.md)
   - [David Foster Wallace](literature/david-foster-wallace.md)
   - [Raduan Nassar](literature/raduan-nassar.md)
   - [William Shakespeare](literature/william-shakespeare.md)

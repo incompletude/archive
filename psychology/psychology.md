@@ -17,6 +17,7 @@
 - [To fall in love with anyone, do this](https://www.nytimes.com/2015/01/11/style/modern-love-to-fall-in-love-with-anyone-do-this.html)
 - [Everybody lies: how Google search reveals our darkest secrets](https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz)
 - [Understanding the difference between guilt and shame can help us process feelings of failure](https://qz.com/860408/the-difference-between-guilt-and-shame-can-help-us-process-feelings-of-failure/)
+- [Today I Learned That Not Everyone Has An Internal Monologue And It Has Ruined My Day.](https://insidemymind.me/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)
 
 ## Videos
 

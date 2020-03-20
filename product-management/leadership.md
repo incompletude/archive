@@ -18,3 +18,8 @@
 - [The Art of Bargaining, Positional vs Interest-Based Negotiation](https://f3fundit.com/the-art-of-bargaining-positional-vs-interest-based-negotiation/)
 - [Science Of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)
 - [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548)
+- [Moral Mazes: Bureaucracy and Managerial Work](https://hbr.org/1983/09/moral-mazes-bureaucracy-and-managerial-work)
+
+## Gits
+
+- [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
