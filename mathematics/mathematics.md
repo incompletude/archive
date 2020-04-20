@@ -31,5 +31,6 @@
 
 - [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 - [Stephen Wolfram - Is mathematics invented or discovered](https://www.youtube.com/watch?v=nUCwtLTUPQ4)
+- [Roger Penrose - Is mathematics invented or discovered?](https://www.youtube.com/watch?v=ujvS2K06dg4)
 - [Math and analogies](https://www.youtube.com/watch?v=BtFVdjwXnuM)
 - [The beauty of Calculus](https://www.youtube.com/watch?v=1r6893ga_So)

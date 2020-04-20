@@ -13,6 +13,7 @@
 
 ## Tools
 
+- [Duo](https://duo.alexpate.uk/)
 - [Picular](https://picular.co/)
 - [Color.review](https://color.review/)
 - [ColorBox](https://www.colorbox.io/)
