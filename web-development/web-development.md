@@ -1,3 +1,5 @@
 # Web development
 
-## Articles
+## Tools
+
+- [Favicon Generator](https://realfavicongenerator.net/)
