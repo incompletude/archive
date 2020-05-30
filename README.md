@@ -90,6 +90,7 @@
       - [Snap.svg](web-development/programming/nodejs/snapsvg.md)
       - [Stimulus](web-development/programming/nodejs/stimulus.md)
       - [Svelte](web-development/programming/nodejs/svelte.md)
+      - [Vue.js](web-development/programming/nodejs/vuejs.md)
     - [SVG](web-development/programming/svg/svg.md)
   - [Programming languages](web-development/programming-languages/programming-languages.md)
     - [C Sharp](web-development/programming-languages/c-sharp.md)

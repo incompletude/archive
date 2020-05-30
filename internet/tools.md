@@ -33,3 +33,7 @@
 ## Notes
 
 - [Notion](https://www.notion.so)
+
+## Process management
+
+- [Pipefy](https://www.pipefy.com/)

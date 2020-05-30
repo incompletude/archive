@@ -7,6 +7,7 @@
 - [The crisis in physics is not only about physics](http://backreaction.blogspot.com/2019/10/the-crisis-in-physics-is-not-only-about.html)
 - [Physics can explain human innovation and enlightenment](https://qz.com/1316942/physics-can-explain-human-innovation-and-enlightenment/)
 - [A universe from nothing](https://www.youtube.com/watch?v=EjaGktVQdNg)
+- [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
 
 ## Videos
 

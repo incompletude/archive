@@ -17,3 +17,5 @@
 
 - [Is it bad practice to have a constructor function return a Promise?](https://stackoverflow.com/questions/24398699/is-it-bad-practice-to-have-a-constructor-function-return-a-promise)
 - [Limiting asynchronous calls in Node.js](https://stackoverflow.com/questions/9539886/limiting-asynchronous-calls-in-node-js)
+- [How do I decide whether @types/* goes into `dependencies` or `devDependencies`?](https://stackoverflow.com/questions/45176661/how-do-i-decide-whether-types-goes-into-dependencies-or-devdependencies)
+- [Why can I not throw inside a Promise.catch handler?](https://stackoverflow.com/questions/30715367/why-can-i-not-throw-inside-a-promise-catch-handler)
