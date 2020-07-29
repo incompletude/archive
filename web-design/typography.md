@@ -11,7 +11,7 @@
 - [To all the typography rules I should have known before](https://blog.prototypr.io/to-all-the-typography-rules-i-should-have-known-before-e4ee5e3651d9)
 - [To choose the right typeface, look at its x-height.](https://blog.prototypr.io/to-choose-the-right-typeface-look-at-its-x-height-instead-d5ef0967d09c)
 - [A framework to create an accessible & harmonious typography system for faster design-dev handoff
-](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
+  ](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
 - [The no-nonsense guide to font pairing](https://blog.prototypr.io/the-no-nonsense-guide-to-font-pairing-64e4ead688a6)
 - [Here’s the typography of the next decade](https://theoutline.com/post/8385/didones-font-of-the-decade)
 
@@ -49,3 +49,4 @@
 ## Videos
 
 - [Disillusionment of 10 point font](https://vimeo.com/217657829)
+- [Why this font is everywhere](https://www.youtube.com/watch?v=Zu91meda2I8)
