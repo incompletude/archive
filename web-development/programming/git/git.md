@@ -7,3 +7,4 @@
 ## Questions
 
 - [How to save username and password in Git?](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git)
+- [Git - Ignore files during merge](https://stackoverflow.com/a/53701983)

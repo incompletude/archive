@@ -52,3 +52,4 @@
 - [Transfonter](https://transfonter.org/)
 - [Animista](https://animista.net/)
 - [Archetype](https://archetypeapp.com/)
+- [Gradient Magic](https://www.gradientmagic.com/)
