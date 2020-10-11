@@ -18,6 +18,7 @@
 - [Everybody lies: how Google search reveals our darkest secrets](https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz)
 - [Understanding the difference between guilt and shame can help us process feelings of failure](https://qz.com/860408/the-difference-between-guilt-and-shame-can-help-us-process-feelings-of-failure/)
 - [Today I Learned That Not Everyone Has An Internal Monologue And It Has Ruined My Day.](https://insidemymind.me/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)
+- ['I'm extremely controversial': the psychologist rethinking human emotion](https://www.theguardian.com/books/2020/sep/25/im-extremely-controversial-the-psychologist-rethinking-human-emotion)
 
 ## Videos
 

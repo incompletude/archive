@@ -4,7 +4,7 @@
 
 - [Landscape with the Fall of Icarus](https://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus)
 - [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
-- [Hope](https://en.wikipedia.org/wiki/Hope_(painting))
+- [Hope](<https://en.wikipedia.org/wiki/Hope_(painting)>)
 - [Netherlandish Proverbs](https://en.wikipedia.org/wiki/Netherlandish_Proverbs)
 
 ## Publications
@@ -15,6 +15,7 @@
 - [Jeremy Geddes](http://www.jeremygeddesart.com/)
 - [Nicolas Rivals](http://nicolasrivals.com/)
 - [Rafael Araujo](http://www.rafael-araujo.com/)
+- [Artvee](https://artvee.com/)
 
 ## Videos
 
