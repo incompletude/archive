@@ -35,6 +35,8 @@
 - [Cowboy](https://cowboy.com/)
 - [Bewegen](https://bewegen.com/)
 - [toucan](https://jointoucan.com/)
+- [Building a strong community](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community)
+- [Google Career Certificates](https://grow.google/certificates/)
 
 ## Publications
 

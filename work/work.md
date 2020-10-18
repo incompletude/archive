@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [The 5 Most Effective Ways To Market Yourself as a Developer](https://blog.codersrank.io/the-5-most-effective-ways-to-market-yourself-as-a-developer/)
 - [The role of luck in life success is far greater than we realized](https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/)
 - [The unexpected benefit of failing at the start of your career](https://qz.com/work/1734945/the-unexpected-benefit-of-failing-at-the-start-of-your-career/)
 - [Your professional decline is coming (much) sooner than you think](https://www.theatlantic.com/magazine/archive/2019/07/work-peak-professional-decline/590650/)
@@ -12,6 +13,7 @@
 - [The 8-Hour Workday Is a Counterproductive Lie](https://www.wired.com/story/eight-hour-workday-is-a-lie/)
 - [How to make hypersensitivity your strongest skill at work](https://qz.com/work/1762183/how-to-stop-overthinking-if-youre-a-highly-sensitive-person/)
 - [Hacking on Bug Bounties for Four Years](https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/)
+- [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
 
 ## Tools
 

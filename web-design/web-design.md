@@ -13,6 +13,10 @@
 - [Shorty Awards](https://shortyawards.com/)
 - [Webby Awards](https://www.webbyawards.com/)
 
+## Guides
+
+- [Brand Names](https://www.nickkolenda.com/brand-names/)
+
 ## Publications
 
 - [Abduzeedo](https://abduzeedo.com/)
