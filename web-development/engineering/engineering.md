@@ -18,6 +18,7 @@
 - [Technical Debt Is like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/)
 - [Living in the Age of Software Fuckery](https://web.archive.org/web/20160308032127/https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877)
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
+- [Business Operations - Tech Stack Details](https://about.gitlab.com/handbook/business-ops/tech-stack/)
 
 ## Publications
 

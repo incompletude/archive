@@ -8,6 +8,7 @@
 
 - [Creating a personal access token for the command line](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Lerna monorepo with TypeScript incremental builds](https://betterstack.dev/blog/lerna-typescript-monorepo/)
 
 ## Questions
 

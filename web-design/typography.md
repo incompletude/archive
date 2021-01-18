@@ -5,6 +5,7 @@
 - [The graceful restoration of a 200-year-old serif typeface shows the problem with digital fonts](https://qz.com/quartzy/1310669/monotype-restored-the-font-walbaum-a-200-year-old-serif-typeface/)
 - [The dark age of soulless sans-serif logos is coming to an end](https://qz.com/1292403/the-dark-age-of-soulless-sans-serif-logos-is-coming-to-an-end/)
 - [Two spaces after period are better than one, except maybe they aren’t, study finds](https://arstechnica.com/science/2018/05/two-spaces-after-period-are-better-than-one-except-maybe-they-arent-study-finds/)
+- [The Scientific Case for Two Spaces After a Period](https://www.theatlantic.com/science/archive/2018/05/two-spaces-after-a-period/559304/)
 - [Making sense of type classification (part 1)](https://www.smashingmagazine.com/2013/04/making-sense-type-classification-part-1/)
 - [Making sense of type classification (part 2)](https://www.smashingmagazine.com/2013/06/making-sense-of-type-classification-part-2/)
 - [The famous optical illusion hidden in every typeface—including this one](https://io9.gizmodo.com/the-famous-optical-illusion-hidden-in-every-typeface-in-1714788793)
