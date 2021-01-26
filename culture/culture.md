@@ -8,6 +8,8 @@
 - [Paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance)
 - [Internet, Social Media and The Individual](https://techimadions.com/internet-social-media-individual/)
 - [On Toxic Femininity](https://quillette.com/2018/07/09/on-toxic-femininity/)
+- [The Data Show That Socialism Works](https://www.currentaffairs.org/2019/12/the-data-show-that-socialism-works)
+- [#17: We don't live in a meritocracy.](https://defaultfriend.substack.com/p/17-we-dont-live-in-a-meritocracy)
 
 ## Videos
 
