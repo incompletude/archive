@@ -19,6 +19,7 @@
 - [Living in the Age of Software Fuckery](https://web.archive.org/web/20160308032127/https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877)
 - [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 - [Business Operations - Tech Stack Details](https://about.gitlab.com/handbook/business-ops/tech-stack/)
+- [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
 
 ## Publications
 
