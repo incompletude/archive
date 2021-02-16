@@ -6,7 +6,7 @@
 - [The exponential function is a miracle](https://blog.plover.com/math/exponential.html)
 - [Escher-like spiral tilings](http://isohedral.ca/escher-like-spiral-tilings/)
 - [Fibonacci number
-](https://en.wikipedia.org/wiki/Fibonacci_number)
+  ](https://en.wikipedia.org/wiki/Fibonacci_number)
 - [Geometry, algebra, and intuition](https://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/)
 - [Sunset geometry](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
@@ -23,6 +23,7 @@
 - [Spurious correlations](http://www.tylervigen.com/spurious-correlations)
 - [Visual polyhedra](http://dmccooey.com/polyhedra/index.html)
 - [Paper models of polyhedra](https://www.polyhedra.net/en/)
+- [Mathematics for the Liberal Arts](https://courses.lumenlearning.com/waymakermath4libarts/)
 
 ## Tools
 
