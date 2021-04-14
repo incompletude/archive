@@ -15,6 +15,9 @@
   ](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
 - [The no-nonsense guide to font pairing](https://blog.prototypr.io/the-no-nonsense-guide-to-font-pairing-64e4ead688a6)
 - [Here’s the typography of the next decade](https://theoutline.com/post/8385/didones-font-of-the-decade)
+- [Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/)
+- [Building a design system at a startup](https://medium.com/deepnote/building-a-design-system-at-a-startup-7b352d9875b3)
+- [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 
 ## Events
 

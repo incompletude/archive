@@ -14,6 +14,7 @@
 - [How to make hypersensitivity your strongest skill at work](https://qz.com/work/1762183/how-to-stop-overthinking-if-youre-a-highly-sensitive-person/)
 - [Hacking on Bug Bounties for Four Years](https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/)
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
+- [Does Fear Motivate Workers — or Make Things Worse?](https://knowledge.wharton.upenn.edu/article/fear-motivate-workers-make-things-worse/)
 
 ## Tools
 
