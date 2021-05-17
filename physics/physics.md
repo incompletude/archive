@@ -8,6 +8,7 @@
 - [Physics can explain human innovation and enlightenment](https://qz.com/1316942/physics-can-explain-human-innovation-and-enlightenment/)
 - [A universe from nothing](https://www.youtube.com/watch?v=EjaGktVQdNg)
 - [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
+- [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
 
 ## Videos
 

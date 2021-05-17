@@ -24,6 +24,7 @@
 - [Visual polyhedra](http://dmccooey.com/polyhedra/index.html)
 - [Paper models of polyhedra](https://www.polyhedra.net/en/)
 - [Mathematics for the Liberal Arts](https://courses.lumenlearning.com/waymakermath4libarts/)
+- [Mathigon](https://mathigon.org/)
 
 ## Tools
 
