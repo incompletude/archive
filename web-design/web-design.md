@@ -4,6 +4,7 @@
 
 - [Dieter Rams](https://en.wikipedia.org/wiki/Dieter_Rams)
 - [Software architecture is overrated, clear and simple design is underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
+- [The 72 PPI Web Resolution Myth](https://www.photoshopessentials.com/essentials/the-72-ppi-web-resolution-myth/)
 
 ## Awards
 

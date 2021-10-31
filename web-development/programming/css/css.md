@@ -26,6 +26,7 @@
 - [Dot navigation styles](https://tympanus.net/codrops/2014/01/21/dot-navigation-styles/)
 - [Coping with flexbox](https://kgrz.io/coping-with-flexbox.html)
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [Building a simple CSS grid with flexbox](https://mono.software/2016/12/02/building-a-simple-css-grid-with-flexbox/)
 
 ## Frameworks
 

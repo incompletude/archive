@@ -5,6 +5,7 @@
 - [RDBMSs vs. NoSQL Databases: Overview](https://maxivak.com/rdbms-vs-nosql-databases/)
 - [When your data doesn’t fit in memory: the basic techniques](https://pythonspeed.com/articles/data-doesnt-fit-in-memory/)
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+- [Scaling relational SQL databases](https://stribny.name/blog/2020/07/scaling-relational-sql-databases/)
 
 ## Questions
 

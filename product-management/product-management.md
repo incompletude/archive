@@ -7,6 +7,7 @@
 - [Nuggets: como democratizar pesquisas de design](https://medium.com/quintoandar-design/nuggets-como-democratizar-pesquisas-de-design-9b1a717879f0)
 - [How to Craft Your Product Team at Every Stage, From Pre-Product/Market Fit to Hypergrowth](https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/)
 - [4 Tips for Rapidly Iterating on Your Product When Finding Product-Market Fit](https://oncommand.io/blog/4-tips-for-rapidly-iterating-on-your-product-when-finding-product-market-fit)
+- [Steve Jobs Insult Response - Highest Quality](https://www.youtube.com/watch?v=oeqPrUmVz-o)
 
 ## Publications
 

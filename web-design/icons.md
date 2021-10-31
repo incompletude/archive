@@ -15,3 +15,4 @@
 - [Themify Icons](https://themify.me/themify-icons)
 - [System UIcons](https://systemuicons.com/)
 - [Mono Icons](https://icons.mono.company/)
+- [Tabler](https://tabler-icons.io/)

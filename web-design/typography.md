@@ -29,6 +29,7 @@
 - [Milieu Grotesque](https://www.milieugrotesque.com/)
 - [Swiss Typefaces](https://www.swisstypefaces.com/)
 - [Schick Toikka](https://www.schick-toikka.com/)
+- [VTF](http://velvetyne.fr/)
 
 ## Publications
 

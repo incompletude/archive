@@ -10,6 +10,7 @@
 - [The Best SaaS Landing page examples I’ve seen (+ their secrets for conversion)](https://www.cortes.design/post/best-saas-landing-page-examples-inspiration)
 - [On behalf of Hims’ patients, thank you for copying Ro](https://medium.com/@zreitano/on-behalf-of-hims-patients-thank-you-for-copying-ro-aba99193d231)
 - [UI list options w’ predictive hover](https://blog.prototypr.io/ui-list-options-w-predictive-hover-f4e7a0d55f43)
+- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
 
 ## Tools
 

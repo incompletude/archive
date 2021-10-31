@@ -8,6 +8,7 @@
 
 - [Design Systems](https://www.designsystems.com/)
 - [Programming Design Systems](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [Open UI](https://open-ui.org/)
 
 ## Videos
 

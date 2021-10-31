@@ -11,3 +11,5 @@
 - [Persistent Layout Patterns in Next.js](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
 - [Creating a React Component Library using Rollup, Typescript, Sass and Storybook](https://blog.harveydelaney.com/creating-your-own-react-component-library/)
 - [Developing responsive layouts with React Hooks](https://blog.logrocket.com/developing-responsive-layouts-with-react-hooks/)
+- [How to Implement Authentication in Next.JS to Protect your Routes](https://www.mikealche.com/software-development/how-to-implement-authentication-in-next-js-without-third-party-libraries)
+- [Auth redirect in NextJS](https://medium.com/@tafka_labs/auth-redirect-in-nextjs-3a3a524c0a06)

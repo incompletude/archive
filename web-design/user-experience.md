@@ -21,6 +21,7 @@
 - [Why the double diamond isn’t enough](https://uxdesign.cc/why-the-double-diamond-isnt-enough-adaa48a8aec1)
 - [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 - [Why we went passwordless on our new product](https://spike.sh/blog/why-we-went-passwordless/)
+- [15 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html)
 
 ## Publications
 
