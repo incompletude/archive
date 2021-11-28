@@ -51,6 +51,7 @@
 - [Hack](https://sourcefoundry.org/hack/)
 - [Sans Forgetica](http://sansforgetica.rmit/)
 - [Signifier](https://klim.co.nz/blog/signifier-design-information/)
+- [Out of the dark](https://www.outofthedark.xyz/copy)
 
 ## Videos
 

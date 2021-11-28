@@ -46,6 +46,7 @@
 - [Every Layout](https://every-layout.dev/)
 - [GRID](http://grid.malven.co/)
 - [CSS Animation 101](https://cssanimation.rocks/css-animation-101/)
+- [Layout patterns](https://web.dev/patterns/layout/)
 
 ## Tools
 
@@ -55,3 +56,7 @@
 - [Animista](https://animista.net/)
 - [Archetype](https://archetypeapp.com/)
 - [Gradient Magic](https://www.gradientmagic.com/)
+
+## Videos
+
+- [Awesome UI Interactions with the CSS Clip Path Property](https://www.youtube.com/watch?v=F4kJXbaunUg)
