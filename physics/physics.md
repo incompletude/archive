@@ -14,3 +14,9 @@
 
 - [The strange, frictionless world of fuperfluids](https://www.youtube.com/watch?v=zJblFBwqjPo)
 - [How Fast the Light Speed from Nasa](https://www.youtube.com/watch?v=LvH2MVI8idw)
+- [Does Superdeterminism save Quantum Mechanics? Or does it kill free will and destroy science?](https://www.youtube.com/watch?v=ytyjgIyegDI)
+
+## Quotes
+
+- We are brothers of the boulders, cousins of the clouds. [Harlow Shapley]
+- The purpose of life is to continue the mission of the stars.

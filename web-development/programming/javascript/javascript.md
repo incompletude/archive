@@ -8,6 +8,13 @@
   ](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/)
 - [Make Text Match Any Background Color](https://jfelix.info/blog/how-to-make-a-text-color-fit-any-background-color)
 
+## Books
+
+- [JavaScript for impatient programmers
+  ](https://exploringjs.com/impatient-js/toc.html)
+
 ## Pens
 
 - [Split slick slideshow](https://codepen.io/supah/pen/zZaPeE)
+- [Path morph loop with Snap.svg](https://codepen.io/loac-fr/pen/oXVJoj)
+- [Snap.svg](http://jsfiddle.net/rgWLT/1/)
