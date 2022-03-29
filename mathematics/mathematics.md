@@ -14,6 +14,7 @@
 - [Prince Rupert's cube](https://en.wikipedia.org/wiki/Prince_Rupert's_cube)
 - [0.999...](https://en.m.wikipedia.org/wiki/0.999...)
 - [How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer.](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
+- [Why Are Mathematicians So Bad at Arithmetic?](https://mathwithbaddrawings.com/2017/01/11/why-are-mathematicians-so-bad-at-arithmetic/)
 
 ## Podcasts
 
