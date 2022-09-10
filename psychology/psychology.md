@@ -22,6 +22,8 @@
 - ['I'm extremely controversial': the psychologist rethinking human emotion](https://www.theguardian.com/books/2020/sep/25/im-extremely-controversial-the-psychologist-rethinking-human-emotion)
 - [Is Consciousness Everywhere?](https://thereader.mitpress.mit.edu/is-consciousness-everywhere/)
 - [Your attitude determines your success](https://muratbuffalo.blogspot.com/2021/03/your-attitude-determines-your-success.html)
+- [Consciousness Is Just a Feeling](https://nautil.us/consciousness-is-just-a-feeling-9617/)
+- [How to Unlearn a Disease](https://nautil.us/how-to-unlearn-a-disease-rp-9851/)
 
 ## Videos
 

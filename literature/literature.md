@@ -2,13 +2,12 @@
 
 ## Articles
 
-- [Russian teacher 'kills friend in heated poetry versus prose argument'](https://www.independent.co.uk/news/world/europe/russian-teacher-kills-friend-in-heated-poetry-versus-prose-argument-9095784.html)
+- [Russian teacher &#39;kills friend in heated poetry versus prose argument&#39;](https://www.independent.co.uk/news/world/europe/russian-teacher-kills-friend-in-heated-poetry-versus-prose-argument-9095784.html)
 - [Word crunching](https://brianbilston.com/2015/01/29/word-crunching/)
 
 ## Quotes
 
 - Iceland is the place you go to remind yourself that planet Earth is a machine: very large, continuously operating, working on a time scale too long to easily observe, towards a highly uncertain end; and to remind yourself that all the organic life that has ever existed amounts to a greasy film that has survived on the exterior of that machine thanks to furious improvisation rather than any specific dispensation.
-
 - I always thought that inspiration is for amateurs. The rest of us just show up and get to work. [Chuck Close]
 - For thousands of years, philosophers, thinkers and prophets have besmirched money and called it the root of all evil. Be that as it may, money is also the apogee of human tolerance. Money is more open-minded than language, state laws, cultural codes, religious beliefs and social habits. Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation. Thanks to money, even people who don’t know each other and don’t trust each other can nevertheless cooperate effectively. [Sapiens]
 - The truth is rarely pure and never simple. [The Importance of Being Earnest - Act I]
@@ -24,3 +23,4 @@
 - Today I am proud to say that I am inhuman, that I belong not to men and governments, that I have nothing to do with creeds and principles. I have nothing to do with the creaking machinery of humanity-I belong to the earth! [Tropic of Cancer]
 - The cancer of time is eating us away. [Tropic of Cancer]
 - Do anything, but let it produce joy. Do anything, but let it yield ecstasy. [Tropic of Cancer]
+- Half the harm that is done in this world is due to people who want to feel important. They don't mean to do harm; but the harm does not interest them. Or they do not see it, or they justify it because they are absorbed in the endless struggle to think well of themselves. [The Cocktail Party]

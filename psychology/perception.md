@@ -8,6 +8,7 @@
 - [How artists engineer their work to mess with our minds](https://www.wired.com/2017/05/how-artists-trick-your-brain/)
 - [Dolly zoom](https://en.wikipedia.org/wiki/Dolly_zoom)
 - [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle)
+- ["Ambiguous Objects" that change their appearances in a mirror](http://www.isc.meiji.ac.jp/~kokichis/ambiguousc/ambiguouscylindere.html)
 
 ## Publications
 

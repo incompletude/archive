@@ -7,6 +7,7 @@
 - [Improving User Flow Through Page Transitions
   ](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/)
 - [Make Text Match Any Background Color](https://jfelix.info/blog/how-to-make-a-text-color-fit-any-background-color)
+- [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
 
 ## Books
 
@@ -18,3 +19,7 @@
 - [Split slick slideshow](https://codepen.io/supah/pen/zZaPeE)
 - [Path morph loop with Snap.svg](https://codepen.io/loac-fr/pen/oXVJoj)
 - [Snap.svg](http://jsfiddle.net/rgWLT/1/)
+
+## Questions
+
+- [Why is immutability so important (or needed) in JavaScript?](https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript)

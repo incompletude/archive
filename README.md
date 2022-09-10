@@ -98,11 +98,11 @@
     - [PHP](web-development/programming-languages/php.md)
   - [Registrar](web-development/registrar/registrar.md)
   - [Security](web-development/security/security.md)
-    - [Cryptography](web-development/security/cryptography.md)
   - [Visual Studio Code](web-development/visual-studio-code/visual-studio-code.md)
 - [Work](work/work.md)
   - [Finding work](work/finding-work.md)
   - [Interview](work/interview.md)
+  - [Leadership](work/leadership.md)
   - [Remote work](work/remote-work.md)
 
 ## License

@@ -22,6 +22,7 @@
 - [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 - [Why we went passwordless on our new product](https://spike.sh/blog/why-we-went-passwordless/)
 - [15 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html)
+- [Netflix’s E-Commerce UX](https://baymard.com/ux-benchmark/case-studies/netflix)
 
 ## Publications
 

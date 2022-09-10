@@ -9,6 +9,8 @@
 - [A universe from nothing](https://www.youtube.com/watch?v=EjaGktVQdNg)
 - [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
 - [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
+- [How Maxwell’s Demon Continues to Startle Scientists](https://www.quantamagazine.org/how-maxwells-demon-continues-to-startle-scientists-20210422/)
+- [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
 
 ## Videos
 
