@@ -24,6 +24,7 @@
 - [Your attitude determines your success](https://muratbuffalo.blogspot.com/2021/03/your-attitude-determines-your-success.html)
 - [Consciousness Is Just a Feeling](https://nautil.us/consciousness-is-just-a-feeling-9617/)
 - [How to Unlearn a Disease](https://nautil.us/how-to-unlearn-a-disease-rp-9851/)
+- [Tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
 
 ## Videos
 

@@ -3,10 +3,12 @@
 ## Articles
 
 - [The calculus of contagion](https://aeon.co/essays/how-mathematics-can-make-epidemics-history)
+- [Calculus Explained with pics and gifs](https://0a.io/chapter1/calculus-explained.html)
 - [The exponential function is a miracle](https://blog.plover.com/math/exponential.html)
 - [Escher-like spiral tilings](http://isohedral.ca/escher-like-spiral-tilings/)
-- [Fibonacci number
-  ](https://en.wikipedia.org/wiki/Fibonacci_number)
+- [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
+- [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
+- [A música digital não existiria sem a transformada de Fourier](https://gizmodo.uol.com.br/transformada-fourier-usos/)
 - [Geometry, algebra, and intuition](https://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/)
 - [Sunset geometry](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
@@ -15,6 +17,9 @@
 - [0.999...](https://en.m.wikipedia.org/wiki/0.999...)
 - [How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer.](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
 - [Why Are Mathematicians So Bad at Arithmetic?](https://mathwithbaddrawings.com/2017/01/11/why-are-mathematicians-so-bad-at-arithmetic/)
+- [Gödel’s incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+- [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+- [Tarski’s undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
 
 ## Podcasts
 
@@ -27,6 +32,8 @@
 - [Paper models of polyhedra](https://www.polyhedra.net/en/)
 - [Mathematics for the Liberal Arts](https://courses.lumenlearning.com/waymakermath4libarts/)
 - [Mathigon](https://mathigon.org/)
+- [Analogies and metaphors to explain Gödel’s theorem](https://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/00494925.di020701.02p0020k.pdf)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
 
 ## Tools
 
@@ -39,6 +46,7 @@
 - [Roger Penrose - Is mathematics invented or discovered?](https://www.youtube.com/watch?v=ujvS2K06dg4)
 - [Math and analogies](https://www.youtube.com/watch?v=BtFVdjwXnuM)
 - [The beauty of Calculus](https://www.youtube.com/watch?v=1r6893ga_So)
+- [The Bell curve](https://www.youtube.com/watch?v=DJzmb7hGmeM)
 
 ## Quotes
 
