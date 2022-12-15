@@ -36,7 +36,7 @@
   - [Bias](psychology/bias.md)
   - [Creativity](psychology/creativity.md)
   - [Perception](psychology/perception.md)
-- [sociology](sociology/sociology.md)
+- [Sociology](sociology/sociology.md)
 
 ## License
 
