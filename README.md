@@ -10,8 +10,13 @@
   - [George Carlin](comedy/george-carlin.md)
   - [Louis C.K.](comedy/louis-ck.md)
 - [Comics](comics/comics.md)
-- [Culture](culture/culture.md)
 - [Ethics](ethics/ethics.md)
+- [Life](life/life.md)
+  - [Cooking](life/cooking.md)
+  - [Learning](life/learning.md)
+  - [Mindfulness](life/mindfulness.md)
+  - [Parenting](life/parenting.md)
+  - [Thinking](life/thinking.md)
 - [Linguistics](linguistics/linguistics.md)
 - [Literature](literature/literature.md)
   - [Charles Bukowski](literature/charles-bukowski.md)
@@ -31,6 +36,7 @@
   - [Bias](psychology/bias.md)
   - [Creativity](psychology/creativity.md)
   - [Perception](psychology/perception.md)
+- [sociology](sociology/sociology.md)
 
 ## License
 

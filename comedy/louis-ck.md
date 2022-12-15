@@ -1,4 +1,4 @@
-# Louis C.K.
+# Louis C.K
 
 ## Videos
 

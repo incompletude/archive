@@ -1,4 +1,4 @@
-# Culture
+# Society
 
 ## Articles
 
@@ -9,10 +9,9 @@
 - [Hell Is Ourselves](https://www.thenewatlantis.com/publications/hell-is-ourselves)
 - [On Toxic Femininity](https://quillette.com/2018/07/09/on-toxic-femininity/)
 - [The Data Show That Socialism Works](https://www.currentaffairs.org/2019/12/the-data-show-that-socialism-works)
-- [#17: We don't live in a meritocracy.](https://defaultfriend.substack.com/p/17-we-dont-live-in-a-meritocracy)
+- [#17: We don&#39;t live in a meritocracy.](https://defaultfriend.substack.com/p/17-we-dont-live-in-a-meritocracy)
 - [Sexy cynicism and nihilist elitism](https://meaningness.com/nihilist-cynicism-elitism)
-- [Habitat 67, Montreal's 'failed dream' – a history of cities in 50 buildings, day 35](https://www.theguardian.com/cities/2015/may/13/habitat-67-montreal-expo-moshe-safdie-history-cities-50-buildings-day-35)
-- [Stoicism is Not Enough](https://simonsarris.substack.com/p/stoicism-is-not-enough)
+- [Habitat 67, Montreal&#39;s &#39;failed dream&#39; – a history of cities in 50 buildings, day 35](https://www.theguardian.com/cities/2015/may/13/habitat-67-montreal-expo-moshe-safdie-history-cities-50-buildings-day-35)
 
 ## Videos
 
