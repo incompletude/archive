@@ -13,6 +13,7 @@
 - [Dodo](https://en.wikipedia.org/wiki/Dodo)
 - [A New Theory Explains How Consciousness Evolved](https://www.theatlantic.com/science/archive/2016/06/how-consciousness-evolved/485558/)
 - [Is Human Behavior Just Elaborate Running and Tumbling?](https://nathanieltravis.com/2022/01/17/is-human-behavior-just-elaborate-running-and-tumbling/)
+- [The best science images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
 
 ## Videos
 

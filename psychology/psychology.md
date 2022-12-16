@@ -25,7 +25,11 @@
 - [Consciousness Is Just a Feeling](https://nautil.us/consciousness-is-just-a-feeling-9617/)
 - [How to Unlearn a Disease](https://nautil.us/how-to-unlearn-a-disease-rp-9851/)
 - [Tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
+- [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
+- [Stoicism is Not Enough](https://simonsarris.substack.com/p/stoicism-is-not-enough)
+- [Intuition Is A “Superpower” Representing One of The Highest Forms of Intelligence](https://thepulse.one/2022/01/14/intuition-is-a-superpower-representing-one-of-the-highest-forms-of-intelligence/)
 
 ## Videos
 
 - [The case against reality](https://www.youtube.com/watch?v=4HFFr0-ybg0)
+- [A dor segundo Gibran](https://www.youtube.com/watch?v=Lc-d64uz6e4)

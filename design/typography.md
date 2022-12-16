@@ -18,6 +18,7 @@
 - [Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/)
 - [Building a design system at a startup](https://medium.com/deepnote/building-a-design-system-at-a-startup-7b352d9875b3)
 - [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
+- [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
 
 ## Events
 
@@ -37,6 +38,7 @@
 - [Font Review Journal](https://fontreviewjournal.com/)
 - [Typographica](https://typographica.org/)
 - [Printing in Relation to Graphic Art by George French](http://print.lapels.club/)
+- [Why fonts make us feel](https://www.monotype.com/neurons)
 
 ## Tools
 

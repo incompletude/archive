@@ -20,6 +20,7 @@
 - [Gödel’s incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 - [Tarski’s undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
+- [How Infinite Series Reveal the Unity of Mathematics](https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/)
 
 ## Podcasts
 

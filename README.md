@@ -23,12 +23,6 @@
   - [UI](design/ui.md)
   - [UX](design/ux.md)
 - [Ethics](ethics/ethics.md)
-- [Life](life/life.md)
-  - [Cooking](life/cooking.md)
-  - [Learning](life/learning.md)
-  - [Mindfulness](life/mindfulness.md)
-  - [Parenting](life/parenting.md)
-  - [Thinking](life/thinking.md)
 - [Linguistics](linguistics/linguistics.md)
 - [Literature](literature/literature.md)
   - [Charles Bukowski](literature/charles-bukowski.md)
@@ -49,7 +43,15 @@
   - [Creativity](psychology/creativity.md)
   - [Perception](psychology/perception.md)
 - [Random](random/random.md)
+  - [Cooking](life/cooking.md)
+  - [Learning](life/learning.md)
+  - [Mindfulness](life/mindfulness.md)
+  - [Parenting](life/parenting.md)
+  - [Thinking](life/thinking.md)
 - [Sociology](sociology/sociology.md)
+- [Work](work/work.md)
+  - [Interview](work/interview.md)
+  - [Leadership](work/leadership.md)
 
 ## License
 

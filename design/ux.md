@@ -23,6 +23,8 @@
 - [15 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html)
 - [Netflix’s E-Commerce UX](https://baymard.com/ux-benchmark/case-studies/netflix)
 - [How Did Ryan Cohen and Chewy Beat Amazon? How Did Chewy Win?](https://www.cinemonic.com/how-did-ryan-cohen-and-chewy-beat-amazon-how-did-chewy-win/)
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [The UX of Porn Tube Sites Are Designed for the Ultimate Money Shot](https://eyeondesign.aiga.org/the-ux-of-porn-tubes-are-designed-for-the-ultimate-money-shot/)
 
 ## Publications
 
