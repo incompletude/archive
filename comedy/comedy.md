@@ -7,6 +7,7 @@
 - [Pig in Australia steals 18 beers from campers, gets drunk, fights cow](http://gadling.com/2013/09/10/australian-pig-steals-beer/)
 - [Let me explain why Miley Cyrus’ VMA performance was our top story this morning](https://www.theonion.com/let-me-explain-why-miley-cyrus-vma-performance-was-our-1819584893)
 - [Linguistic humor, Headlines](https://www.ling.upenn.edu/~beatrice/humor/headlines.html)
+- [Russian teacher &#39;kills friend in heated poetry versus prose argument&#39;](https://www.independent.co.uk/news/world/europe/russian-teacher-kills-friend-in-heated-poetry-versus-prose-argument-9095784.html)
 
 ## Videos
 
