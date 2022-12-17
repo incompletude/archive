@@ -9,6 +9,7 @@
 - [Dolly zoom](https://en.wikipedia.org/wiki/Dolly_zoom)
 - [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle)
 - ["Ambiguous Objects" that change their appearances in a mirror](http://www.isc.meiji.ac.jp/~kokichis/ambiguousc/ambiguouscylindere.html)
+- [How the Brain Distinguishes Memories From Perceptions](https://www.quantamagazine.org/how-the-brain-distinguishes-memories-from-perceptions-20221214/)
 
 ## Publications
 

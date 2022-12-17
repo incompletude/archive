@@ -22,6 +22,8 @@
   - [Typography](design/typography.md)
   - [UI](design/ui.md)
   - [UX](design/ux.md)
+- [Development](development/development.md)
+  - [Databases](development/databases.md)
 - [Ethics](ethics/ethics.md)
 - [Linguistics](linguistics/linguistics.md)
 - [Literature](literature/literature.md)
