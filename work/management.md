@@ -31,6 +31,7 @@
 - [Silicon Valley is turning into its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
 - [How busyness leads to bad decisions](https://www.bbc.com/worklife/article/20191202-how-time-scarcity-makes-us-focus-on-low-value-tasks)
 - [How to Craft Your Product Team at Every Stage, From Pre-Product/Market Fit to Hypergrowth](https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/)
+- [Does Fear Motivate Workers — or Make Things Worse?](https://knowledge.wharton.upenn.edu/article/fear-motivate-workers-make-things-worse/)
 
 ## Publications
 

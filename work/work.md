@@ -14,7 +14,6 @@
 - [How to make hypersensitivity your strongest skill at work](https://qz.com/work/1762183/how-to-stop-overthinking-if-youre-a-highly-sensitive-person/)
 - [Hacking on Bug Bounties for Four Years](https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/)
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
-- [Does Fear Motivate Workers — or Make Things Worse?](https://knowledge.wharton.upenn.edu/article/fear-motivate-workers-make-things-worse/)
 - [Is Success Luck or Hard Work?](https://www.youtube.com/watch?v=3LopI4YeC4I)
 - [Self-Control and Grit: Related but Separable Determinants of Success](https://fermatslibrary.com/s/self-control-and-grit-related-but-separable-determinants-of-success)
 - [How I work and like to work with you](https://www.davidbauer.ch/readme/)
