@@ -19,6 +19,11 @@
 - [Self-Control and Grit: Related but Separable Determinants of Success](https://fermatslibrary.com/s/self-control-and-grit-related-but-separable-determinants-of-success)
 - [How I work and like to work with you](https://www.davidbauer.ch/readme/)
 
+## Publications
+
+- [Startup Mixtape](https://www.startupmixtape.fm/)
+- [OpenDeck](https://opendeck.app/)
+
 ## Tools
 
 - [Fake Update](http://fakeupdate.net/)

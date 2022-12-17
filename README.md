@@ -2,7 +2,6 @@
 
 ## Summary
 
-- [Advertising](advertising/advertising.md)
 - [Art](art/art.md)
 - [Astronomy](astronomy/astronomy.md)
 - [Biology](biology/biology.md)
@@ -69,7 +68,9 @@
   - [Thinking](random/thinking.md)
 - [Sociology](sociology/sociology.md)
 - [Work](work/work.md)
-  - [Interview](work/interview.md)
+  - [Advertising](work/advertising.md)
+  - [Growth](work/growth.md)
+  - [Hiring](work/hiring.md)
   - [Leadership](work/leadership.md)
 
 ## License
