@@ -1,4 +1,4 @@
-# Apollo Server
+# GraphQL
 
 ## Articles
 
