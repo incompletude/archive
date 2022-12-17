@@ -1,4 +1,4 @@
-# Web development
+# Development
 
 ## Articles
 

@@ -1,4 +1,4 @@
-# Society
+# Sociology
 
 ## Articles
 
