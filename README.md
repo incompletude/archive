@@ -71,7 +71,7 @@
   - [Advertising](work/advertising.md)
   - [Growth](work/growth.md)
   - [Hiring](work/hiring.md)
-  - [Leadership](work/leadership.md)
+  - [Management](work/management.md)
 
 ## License
 
