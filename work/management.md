@@ -47,31 +47,31 @@
 
 ### Júnior
 
-Objetivo a ser atingido
-O que fazer para atingir o objetivo
-Como fazer para atingir o objetivo
-Acompanhar execução
+- Objetivo a ser atingido
+- O que fazer para atingir o objetivo
+- Como fazer para atingir o objetivo
+- Acompanhar execução
 
 ### Pleno
 
-Objetivo a ser atingido
-O que fazer para atingir o objetivo
-Como fazer para atingir o objetivo
+- Objetivo a ser atingido
+- O que fazer para atingir o objetivo
+- Como fazer para atingir o objetivo
 
 ### Sênior
 
-Objetivo final
+- Objetivo final
 
 ## Managing
 
 ### Direção
 
-Definir propósito (missão), visão (montanha), objetivos e resultados-chave, e priorização
+- Definir propósito (missão), visão (montanha), objetivos e resultados-chave, e priorização
 
 ### Treinamento
 
-Dar reconhecimento de forma específica
+- Dar reconhecimento de forma específica
 
 ### Carreira
 
-Entender história pessoal, sonhos e construir um plano de ação
+- Entender história pessoal, sonhos e construir um plano de ação
