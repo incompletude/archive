@@ -1,6 +1,6 @@
 # Archive
 
-This repository is the result of cataloging references that are interesting or can be useful since 2020.
+This repository is the result of cataloging references that are interesting or can be useful from 2020 onwards.
 
 ## Summary
 
