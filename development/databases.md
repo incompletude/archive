@@ -20,7 +20,3 @@
 
 - [Thoughts on foreign keys?](https://github.com/github/gh-ost/issues/331)
 - [Connect remotely to ElastiCache - Redis](https://serverfault.com/questions/738923/connect-remotely-to-elasticache-redis)
-
-## Tools
-
-- [QuickDBD](https://www.quickdatabasediagrams.com/)
