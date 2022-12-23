@@ -1,9 +1,5 @@
 # Development
 
-## Articles
-
-- [NestJS, Redis and Postgres local development with Docker Compose](https://www.tomray.dev/nestjs-docker-compose-postgres)
-
 ## Services
 
 - [Hover](https://www.hover.com/)

@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [NestJS, Redis and Postgres local development with Docker Compose](https://www.tomray.dev/nestjs-docker-compose-postgres)
 - [GraphQL Code-First Approach with NestJS 7](https://notiz.dev/blog/graphql-code-first-with-nestjs-7#setup-graphql)
 - [CQRS Pattern & NestJS (Node.js)](https://itnext.io/cqrs-pattern-nestjs-node-js-cf20fd9bb07)
 - [GraphQL Code-First Approach with NestJS 7](https://notiz.dev/blog/graphql-code-first-with-nestjs-7#setup-graphql)
