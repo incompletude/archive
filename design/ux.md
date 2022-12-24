@@ -25,6 +25,7 @@
 - [How Did Ryan Cohen and Chewy Beat Amazon? How Did Chewy Win?](https://www.cinemonic.com/how-did-ryan-cohen-and-chewy-beat-amazon-how-did-chewy-win/)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [The UX of Porn Tube Sites Are Designed for the Ultimate Money Shot](https://eyeondesign.aiga.org/the-ux-of-porn-tubes-are-designed-for-the-ultimate-money-shot/)
+- [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 
 ## Publications
 

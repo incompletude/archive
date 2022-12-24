@@ -3,6 +3,7 @@
 ## Articles
 
 - [The Creative World’s Bullshit Industrial Complex](https://www.behance.net/blog/the-creative-worlds-bullshit-industrial-complex)
+- [Give Your Ideas Some Legs: The Positive Effect of Walkingon Creative Thinking](https://fermatslibrary.com/s/give-your-ideas-some-legs-the-positive-effect-of-walking-on-creative-thinking)
 
 ## Publications
 
