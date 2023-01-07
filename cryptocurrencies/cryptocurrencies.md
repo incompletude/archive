@@ -6,6 +6,7 @@
 - [Tether: the story so far](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
 - [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html)
 - [Are Cryptocurrencies Securities or Commodities?](https://brightnode.io/are-cryptocurrencies-securities-or-commodities/)
+- [How Not to Play the Game](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
 
 ## Videos
 

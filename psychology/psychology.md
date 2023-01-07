@@ -28,6 +28,8 @@
 - [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
 - [Stoicism is Not Enough](https://simonsarris.substack.com/p/stoicism-is-not-enough)
 - [Intuition Is A “Superpower” Representing One of The Highest Forms of Intelligence](https://thepulse.one/2022/01/14/intuition-is-a-superpower-representing-one-of-the-highest-forms-of-intelligence/)
+- [This simple mindset shift can help you feel less stressed and more resilient](https://qz.com/this-simple-mindset-shift-can-help-you-feel-less-stress-1849927268)
+- [Conversation Skills Essentials](https://tynan.com/letstalk/)
 
 ## Videos
 

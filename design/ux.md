@@ -26,6 +26,7 @@
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [The UX of Porn Tube Sites Are Designed for the Ultimate Money Shot](https://eyeondesign.aiga.org/the-ux-of-porn-tubes-are-designed-for-the-ultimate-money-shot/)
 - [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
+- [User Interface Design: 5 Rules of Thumb](https://mannhowie.com/ui-design-web)
 
 ## Publications
 

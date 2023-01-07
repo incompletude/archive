@@ -14,3 +14,4 @@
 - [How to Implement Authentication in Next.JS to Protect your Routes](https://www.mikealche.com/software-development/how-to-implement-authentication-in-next-js-without-third-party-libraries)
 - [Auth redirect in NextJS](https://medium.com/@tafka_labs/auth-redirect-in-nextjs-3a3a524c0a06)
 - [How to add a copy code button to your blog posts](https://philstainer.io/blog/copy-code-button-markdown)
+- [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
