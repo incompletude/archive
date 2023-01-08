@@ -19,6 +19,7 @@
 - [Building a design system at a startup](https://medium.com/deepnote/building-a-design-system-at-a-startup-7b352d9875b3)
 - [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 - [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
+- [The American Style of Quotation Mark Punctuation Makes No Sense](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
 
 ## Events
 

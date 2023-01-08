@@ -13,6 +13,10 @@
 - [NoSQL: The Hangover of Dropping ACID](http://muratbuffalo.blogspot.com/2022/12/nosql-hangover-of-dropping-acid.html)
 - [Postgres Tips & Tricks](https://www.crunchydata.com/postgres-tips)
 
+## Publications
+
+- [Library of Database Schema](https://www.dbschemalibrary.com/)
+
 ## Questions
 
 - [Relational table naming convention](https://stackoverflow.com/questions/4702728/relational-table-naming-convention/4703155#4703155)

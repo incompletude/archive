@@ -7,6 +7,7 @@
 - [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html)
 - [Are Cryptocurrencies Securities or Commodities?](https://brightnode.io/are-cryptocurrencies-securities-or-commodities/)
 - [How Not to Play the Game](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
+- [If P=NP, does Bitcoin fall apart?](https://medium.com/predict/if-p-np-does-bitcoin-fall-apart-21534c16ab97)
 
 ## Videos
 

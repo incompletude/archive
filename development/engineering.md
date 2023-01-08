@@ -2,8 +2,7 @@
 
 ## Articles
 
-- [Modern-Day Architecture Design Patterns for Software Professionals
-  ](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+- [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [The architecture no one needs](https://www.gregnavis.com/articles/the-architecture-no-one-needs.html)
 - [Forget monoliths vs. microservices. Cognitive load is what matters.](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
 - [Create your own dysfunctional single-page app in five easy steps](https://tinnedfruit.com/writing/create-your-own-dysfunctional-single-page-app.html)
@@ -31,6 +30,9 @@
 - [Understand JWT in 3 minutes](https://tahazsh.com/understand-jwt-in-3-minutes)
 - [Dynamic scoping is the simplest form of dependency injection](http://gustavlundin.com/di-frameworks-are-dynamic-binding/)
 - [Taming Names in Software Development](https://www.simplethread.com/taming-names-in-software-development/)
+- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
+- [The Generational Divide in Software Developers](https://hackernoon.com/the-generational-divide-in-software-developers-bco354a)
+- [Why Domain-Driven Design?](https://yehohanan7.medium.com/why-domain-driven-design-203099adf32a)
 
 ## Publications
 
