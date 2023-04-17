@@ -8,6 +8,11 @@
 - [Programming Languages Explained With Music [Comic]](https://blog.toggl.com/programming-languages-explained-with-music-comic/)
 - [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
 - [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+- [https://roadmap.sh/backend](https://roadmap.sh/backend)
+
+## Publications
+
+- [Backend Developer](https://roadmap.sh/backend)
 
 ## Questions
 

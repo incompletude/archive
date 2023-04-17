@@ -15,3 +15,4 @@
 - [Auth redirect in NextJS](https://medium.com/@tafka_labs/auth-redirect-in-nextjs-3a3a524c0a06)
 - [How to add a copy code button to your blog posts](https://philstainer.io/blog/copy-code-button-markdown)
 - [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
+- [You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect)

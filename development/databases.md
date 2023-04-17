@@ -12,6 +12,7 @@
 - [Learn How to Create Dynamic Partitions with PostgreSQL](https://read.acloud.guru/how-to-partition-dynamically-in-postgresql-ce3acbaef66c)
 - [NoSQL: The Hangover of Dropping ACID](http://muratbuffalo.blogspot.com/2022/12/nosql-hangover-of-dropping-acid.html)
 - [Postgres Tips & Tricks](https://www.crunchydata.com/postgres-tips)
+- [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 
 ## Publications
 

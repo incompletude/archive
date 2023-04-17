@@ -58,3 +58,13 @@
 - Boas habilidades em solução de problemas
 - Boas habilidades interpessoais
 - Inglês intermediário
+
+### Desenvolvedor Júnior - Node.js, React.js e Typescript
+
+- Autodidata
+- Noções do ecossistema Node.js e Javascript
+- Familiaridade com Typescript
+- Conhecimento básico em Linux, NPM e Git
+- Boas habilidades em solução de problemas
+- Boas habilidades interpessoais
+- Inglês intermediário

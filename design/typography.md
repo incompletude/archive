@@ -20,6 +20,7 @@
 - [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 - [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
 - [The American Style of Quotation Mark Punctuation Makes No Sense](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
+- [En dash, em dash and hyphen; what’s the difference?](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
 
 ## Events
 
@@ -32,6 +33,10 @@
 - [Swiss Typefaces](https://www.swisstypefaces.com/)
 - [Schick Toikka](https://www.schick-toikka.com/)
 - [VTF](http://velvetyne.fr/)
+
+## Inspiration
+
+- [Modern Font Stacks](https://modernfontstacks.com/)
 
 ## Publications
 

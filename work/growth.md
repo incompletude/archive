@@ -22,6 +22,7 @@
 - [Startup benchmarks](https://www.vccafe.com/2019/11/02/benchmarks/)
 - [5 Performance metrics your small business should track](https://www.inc.com/craig-bloem/5-key-metrics-every-early-stage-business-must-track.html)
 - [4 Tips for Rapidly Iterating on Your Product When Finding Product-Market Fit](https://oncommand.io/blog/4-tips-for-rapidly-iterating-on-your-product-when-finding-product-market-fit)
+- [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
 
 ## Publications
 
