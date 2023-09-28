@@ -15,6 +15,7 @@
 - [The Social Recession: By the Numbers](https://novum.substack.com/p/social-recession-by-the-numbers)
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
 - [The Tyranny Of Time](https://www.noemamag.com/the-tyranny-of-time/)
+- [Impending Collapse](https://knopp.substack.com/p/impeding-collapse)
 
 ## Videos
 

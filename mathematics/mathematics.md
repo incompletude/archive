@@ -22,6 +22,7 @@
 - [Tarski’s undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
 - [How Infinite Series Reveal the Unity of Mathematics](https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/)
 - [P vs NP Problem](http://www.claymath.org/millennium-problems/p-vs-np-problem)
+- [https://pursuingreality.substack.com/p/the-limits-of-rationality](https://pursuingreality.substack.com/p/the-limits-of-rationality)
 
 ## Podcasts
 

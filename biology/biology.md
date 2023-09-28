@@ -15,6 +15,8 @@
 - [Is Human Behavior Just Elaborate Running and Tumbling?](https://nathanieltravis.com/2022/01/17/is-human-behavior-just-elaborate-running-and-tumbling/)
 - [The best science images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
 - [Crows are self-aware just like us, says new study](https://bigthink.com/neuropsych/crows-higher-intelligence/)
+- [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
+- [Can Nature Lie?](https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/)
 
 ## Videos
 

@@ -1,5 +1,9 @@
 # Random
 
+## Articles
+
+- [A concise summary of amazing and great ideas](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
+
 ## Videos
 
 - [Reddit place timelapse complete](https://www.youtube.com/watch?v=RCAsY8kjE3w)

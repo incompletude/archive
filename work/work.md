@@ -17,6 +17,7 @@
 - [Is Success Luck or Hard Work?](https://www.youtube.com/watch?v=3LopI4YeC4I)
 - [Self-Control and Grit: Related but Separable Determinants of Success](https://fermatslibrary.com/s/self-control-and-grit-related-but-separable-determinants-of-success)
 - [How I work and like to work with you](https://www.davidbauer.ch/readme/)
+- [Why I Find Bullshit Work Intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
 
 ## Publications
 

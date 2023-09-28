@@ -21,6 +21,7 @@
 - [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
 - [The American Style of Quotation Mark Punctuation Makes No Sense](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
 - [En dash, em dash and hyphen; what’s the difference?](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
+- [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 
 ## Events
 
