@@ -18,6 +18,8 @@
 - [Self-Control and Grit: Related but Separable Determinants of Success](https://fermatslibrary.com/s/self-control-and-grit-related-but-separable-determinants-of-success)
 - [How I work and like to work with you](https://www.davidbauer.ch/readme/)
 - [Why I Find Bullshit Work Intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
+- [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
+- [Engage your audience by getting to the point, using story structure, and forcing specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
 
 ## Publications
 

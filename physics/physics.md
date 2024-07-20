@@ -9,6 +9,7 @@
 - [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
 - [How Maxwell’s Demon Continues to Startle Scientists](https://www.quantamagazine.org/how-maxwells-demon-continues-to-startle-scientists-20210422/)
 - [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
+- [What if absolutely everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
 
 ## Videos
 

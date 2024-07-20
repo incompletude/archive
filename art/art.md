@@ -6,6 +6,7 @@
 - [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
 - [Hope](<https://en.wikipedia.org/wiki/Hope_(painting)>)
 - [Netherlandish Proverbs](https://en.wikipedia.org/wiki/Netherlandish_Proverbs)
+- [Meet Vivian Maier](https://www.smithsonianmag.com/history/meet-vivian-maier-reclusive-nanny-street-photographer-20th-century-180984665/)
 
 ## Publications
 

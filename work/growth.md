@@ -34,3 +34,4 @@
 - [Moz](https://moz.com/)
 - [SEMrush](https://www.semrush.com/)
 - [Google Optimize](https://marketingplatform.google.com/about/optimize/)
+- [Telescope](https://withtelescope.com/)

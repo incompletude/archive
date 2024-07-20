@@ -23,6 +23,7 @@
 - [How Infinite Series Reveal the Unity of Mathematics](https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/)
 - [P vs NP Problem](http://www.claymath.org/millennium-problems/p-vs-np-problem)
 - [https://pursuingreality.substack.com/p/the-limits-of-rationality](https://pursuingreality.substack.com/p/the-limits-of-rationality)
+- [The Algorithm Behind Jim Simons's Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
 
 ## Podcasts
 

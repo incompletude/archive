@@ -7,6 +7,7 @@
 - [My struggle with colors](https://uxdesign.cc/my-struggle-with-colors-52156c664b87)
 - [My struggle with colors, part II](https://uxdesign.cc/my-struggle-with-colors-part-ii-ed71bff6302a)
 - [Which color scale to use when visualizing data](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
+- [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 
 ## Publications
 

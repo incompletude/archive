@@ -13,6 +13,8 @@
 - [NoSQL: The Hangover of Dropping ACID](http://muratbuffalo.blogspot.com/2022/12/nosql-hangover-of-dropping-acid.html)
 - [Postgres Tips & Tricks](https://www.crunchydata.com/postgres-tips)
 - [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
+- [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Set up a TimescaleDB hypertable with Prisma](https://medium.com/geekculture/set-up-a-timescaledb-hypertable-with-prisma-9550652cfe97)
 
 ## Publications
 

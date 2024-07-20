@@ -49,6 +49,7 @@ This repository is the result of cataloging references that are interesting or c
   - [Parenting](etc/parenting.md)
   - [Thinking](etc/thinking.md)
 - [Ethics](ethics/ethics.md)
+- [Finances](finances/finances.md)
 - [Linguistics](linguistics/linguistics.md)
 - [Literature](literature/literature.md)
   - [Charles Bukowski](literature/charles-bukowski.md)
