@@ -34,6 +34,7 @@
 - [The Generational Divide in Software Developers](https://hackernoon.com/the-generational-divide-in-software-developers-bco354a)
 - [Why Domain-Driven Design?](https://yehohanan7.medium.com/why-domain-driven-design-203099adf32a)
 - [7 simple habits of the top 1% of engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/)
 
 ## Publications
 

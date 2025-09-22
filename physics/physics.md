@@ -7,6 +7,18 @@
 - [Physics can explain human innovation and enlightenment](https://qz.com/1316942/physics-can-explain-human-innovation-and-enlightenment/)
 - [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
 - [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
+- [How Maxwell's Demon Continues to Startle Scientists](https://www.quantamagazine.org/how-maxwells-demon-continues-to-startle-scientists-20210422/)
+- [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
+- [What if absolutely everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
+- [Clarke's three laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
+
+## Articles
+
+- [Double slit experiment no mystery](https://billwadge.wordpress.com/2019/10/25/double-slit-experiment-no-mystery/)
+- [The crisis in physics is not only about physics](http://backreaction.blogspot.com/2019/10/the-crisis-in-physics-is-not-only-about.html)
+- [Physics can explain human innovation and enlightenment](https://qz.com/1316942/physics-can-explain-human-innovation-and-enlightenment/)
+- [Does Time Really Flow? New Clues Come From a Century-Old Approach to Math.](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
+- [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
 - [How Maxwell’s Demon Continues to Startle Scientists](https://www.quantamagazine.org/how-maxwells-demon-continues-to-startle-scientists-20210422/)
 - [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
 - [What if absolutely everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)

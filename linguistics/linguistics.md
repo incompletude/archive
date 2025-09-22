@@ -9,6 +9,7 @@
 - [‘Anumeric’ people: What happens when a language has no words for numbers?](https://theconversation.com/anumeric-people-what-happens-when-a-language-has-no-words-for-numbers-75828)
 - [Talking Is Throwing Fictional Worlds at One Another](http://nautil.us/issue/89/the-dark-side/-talking-is-throwing-fictional-worlds-at-one-another-rp)
 - [Wiio's laws](https://en.wikipedia.org/wiki/Wiio%27s_laws)
+- [You Don’t Need Words to Think](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 
 ## Videos
 

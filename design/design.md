@@ -23,10 +23,12 @@
 - [Abduzeedo](https://abduzeedo.com/)
 - [R/m Design Almanac](https://almanac.readymag.com/)
 - [Design Principles](https://principles.design/)
+- [Godly](https://godly.website/)
 
 ## Tools
 
 - [Behance](https://www.behance.net/)
+- [Design Spells](https://www.designspells.com/)
 
 ## Videos
 

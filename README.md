@@ -25,6 +25,7 @@ This repository is the result of cataloging references that are interesting or c
   - [UX](design/ux.md)
 - [Development](development/development.md)
   - [APIs](development/apis.md)
+  - [Cheat](development/cheats.md)
   - [Databases](development/databases.md)
   - [Documentation](development/documentation.md)
   - [Engineering](development/engineering.md)

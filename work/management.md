@@ -33,6 +33,7 @@
 - [How to Craft Your Product Team at Every Stage, From Pre-Product/Market Fit to Hypergrowth](https://firstround.com/review/how-to-craft-your-product-team-at-every-stage-from-pre-product-market-fit-to-hypergrowth/)
 - [Does Fear Motivate Workers — or Make Things Worse?](https://knowledge.wharton.upenn.edu/article/fear-motivate-workers-make-things-worse/)
 - [Why backlogs are harmful, why they never shrink, and what to do instead](https://lucasfcosta.com/2023/02/07/backlogs-are-useless.html)
+- [Managing Bad Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 
 ## Publications
 

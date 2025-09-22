@@ -23,6 +23,7 @@
 - [5 Performance metrics your small business should track](https://www.inc.com/craig-bloem/5-key-metrics-every-early-stage-business-must-track.html)
 - [4 Tips for Rapidly Iterating on Your Product When Finding Product-Market Fit](https://oncommand.io/blog/4-tips-for-rapidly-iterating-on-your-product-when-finding-product-market-fit)
 - [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
+- [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)
 
 ## Publications
 

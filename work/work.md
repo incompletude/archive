@@ -20,6 +20,7 @@
 - [Why I Find Bullshit Work Intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
 - [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
 - [Engage your audience by getting to the point, using story structure, and forcing specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
+- [The Guide to Stock Options Conversations](https://newsletter.manager.dev/p/the-guide-to-stock-options-conversations)
 
 ## Publications
 

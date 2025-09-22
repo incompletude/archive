@@ -8,6 +8,6 @@
 - [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 - [How to delight your users with subtle animation](https://www.webdesignerdepot.com/2016/11/how-to-delight-your-users-with-subtle-animation/)
 
-## VIdeos
+## Videos
 
 - [Notes on a triangle](https://www.youtube.com/watch?v=lTXGz68Qz0g)
