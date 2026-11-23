@@ -60,10 +60,12 @@
 - Objetivo a ser atingido
 - O que fazer para atingir o objetivo
 - Como fazer para atingir o objetivo
+- Suporte ao time
 
 ### Sênior
 
 - Objetivo final
+- Suporte ao time
 
 ## Managing
 
